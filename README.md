@@ -4,10 +4,19 @@ This repository contains data and code related to an introduction to pandas, a p
 
 # Installation
 
-To use the code and datasets in this repository, you need to have Python and pandas installed. You can install pandas using pip:
+To use the code and datasets in this repository, you need Python plus the main
+libraries used throughout the notebooks:
+
+- pandas
+- NumPy
+- matplotlib
+- seaborn
+- scikit-learn
+
+You can install them with pip:
 
 ```bash
-pip install pandas
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 # Usage
